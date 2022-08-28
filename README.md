@@ -35,4 +35,3 @@ googlebook api:  https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor
 
 Seung: call api and fetch 
 
-merge git project
